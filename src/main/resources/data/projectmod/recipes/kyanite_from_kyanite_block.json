@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+    "item": "projectmod:kyanite_block"
+  }
+],
+  "result": {
+    "item": "projectmod:kyanite",
+    "count": 9
+  }
+}

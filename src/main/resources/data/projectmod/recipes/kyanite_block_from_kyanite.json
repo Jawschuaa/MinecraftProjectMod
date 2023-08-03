@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "catrgory": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "projectmod:kyanite"
+    }
+  },
+  "result": {
+    "item": "projectmod:kyanite_block"
+  }
+}
