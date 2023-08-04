@@ -31,6 +31,8 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.KYANITE_LEGGINGS.get());
                         pOutput.accept(ModItems.KYANITE_SHOVEL.get());
                         pOutput.accept(ModItems.KYANITE_SWORD.get());
+                        pOutput.accept(ModItems.KYANITE_PICKAXE.get());
+
 
 
                     })
