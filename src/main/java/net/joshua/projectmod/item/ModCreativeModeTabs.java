@@ -23,15 +23,19 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModBlocks.KYANITE_BLOCK.get());
                         pOutput.accept(ModBlocks.RAW_KYANITE_BLOCK.get());
                         pOutput.accept(ModItems.KYANITE_AXE.get());
+                        pOutput.accept(ModItems.KYANITE_PICKAXE.get());
+                        pOutput.accept(ModItems.KYANITE_SWORD.get());
+                        pOutput.accept(ModItems.KYANITE_HOE.get());
+                        pOutput.accept(ModItems.KYANITE_SHOVEL.get());
                         pOutput.accept(ModItems.KYANITE_BOOTS.get());
                         pOutput.accept(ModItems.KYANITE_CHESTPLATE.get());
                         pOutput.accept(ModItems.KYANITE_HELMET.get());
-                        pOutput.accept(ModItems.KYANITE_HOE.get());
-                        pOutput.accept(ModItems.KYANITE_HORSE_ARMOR.get());
                         pOutput.accept(ModItems.KYANITE_LEGGINGS.get());
-                        pOutput.accept(ModItems.KYANITE_SHOVEL.get());
-                        pOutput.accept(ModItems.KYANITE_SWORD.get());
-                        pOutput.accept(ModItems.KYANITE_PICKAXE.get());
+                        pOutput.accept(ModItems.KYANITE_HORSE_ARMOR.get());
+
+
+
+
 
 
 
