@@ -1,6 +1,7 @@
 package net.joshua.projectmod.item;
 
 import net.joshua.projectmod.ProjectMod;
+import net.joshua.projectmod.item.custom.MetalDetectorItem;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -44,8 +45,9 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> KYANITE_LEGGINGS = ITEMS.register("kyanite_leggings",
             () -> new ArmorItem(ModArmorMaterials.KYANITE,ArmorItem.Type.LEGGINGS, new Item.Properties()));
-
-
+/* Special Items */
+    public static final RegistryObject<Item> METAL_DETECTOR = ITEMS.register("metal_detector",
+        () -> new MetalDetectorItem(new Item.Properties().durability(100)));
 
 
 

@@ -32,6 +32,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.KYANITE_HELMET.get());
                         pOutput.accept(ModItems.KYANITE_LEGGINGS.get());
                         pOutput.accept(ModItems.KYANITE_HORSE_ARMOR.get());
+                        pOutput.accept(ModItems.METAL_DETECTOR.get());
 
 
 

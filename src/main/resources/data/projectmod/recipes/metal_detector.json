@@ -6,16 +6,22 @@
       "item": "minecraft:stick"
     },
     "X": {
-      "item": "projectmod:kyanite"
+      "item": "minecraft:string"
+    },
+    "$": {
+      "item": "minecraft:copper_ingot"
+    },
+    "@": {
+      "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [
-    "XX",
-    "X#",
-    " #"
+    " X#",
+    "X#$",
+    "@@$"
   ],
   "result": {
-    "item": "projectmod:kyanite_axe"
+    "item": "projectmod:metal_detector"
   },
   "show_notification": true
 }
