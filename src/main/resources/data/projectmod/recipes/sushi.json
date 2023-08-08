@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "key": {
+    "#": {
+      "item": "minecraft:dried_kelp"
+    },
+    "X": {
+      "item": "projectmod:rice"
+    },
+    "@": {
+      "item": "minecraft:salmon"
+    },
+    "$": {
+      "item": "minecraft:cod"
+    }
+  },
+  "pattern": [
+    "###",
+    "@X$",
+    "###"
+  ],
+  "result": {
+    "item": "projectmod:sushi"
+  },
+  "show_notification": true
+}

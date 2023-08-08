@@ -33,6 +33,8 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.KYANITE_LEGGINGS.get());
                         pOutput.accept(ModItems.KYANITE_HORSE_ARMOR.get());
                         pOutput.accept(ModItems.METAL_DETECTOR.get());
+                        pOutput.accept(ModItems.RICE.get());
+                        pOutput.accept(ModItems.SUSHI.get());
 
 
 
